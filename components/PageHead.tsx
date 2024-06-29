@@ -88,7 +88,6 @@ export const PageHead: React.FC<
       <meta property='og:title' content={title} />
       <meta name='twitter:title' content={title} />
       <title>{title}</title>
-      <script async src="https://um.b3n.fun/script.js" data-website-id="19aa6326-59d7-4caf-a30e-aed8b161a6b0"></script>
     </Head>
   )
 }
